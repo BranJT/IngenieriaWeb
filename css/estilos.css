@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.body-container{	
+	margin: 30px auto;
+	background-color: #BDBDBD;
+	width: 600px;
+	border: 1px solid #BDBDBD;
+	border-radius: 8px;
+	}
+/*.container{
+	background-color: #ecf0f3;
+	width: 600px;
+	/*margin: 30px auto;*/
+/*	border: 1px solid #bfd8eb;
+	border-radius: 8px;
+}*/
+.jumbotron {
+	background-color: #58ACFA;	
+	height: 80px;
+}
+.jumbotron h1{
+	color:white;
+	font-size: 36px;
+	text-align: center;	
+}
+.footer {
+   height: 60px;
+}
